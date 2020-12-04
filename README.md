@@ -44,13 +44,13 @@
 [如360、QQ、UC等浏览器请访问](https://pu_shu.gitee.io/func/)
 
 ## 预览图
-![股票预览图-1](https://pu_shu.gitee.io/func/propaganda/%E8%82%A1%E7%A5%A8-1.png)
-![股票预览图-2](https://pu_shu.gitee.io/func/propaganda/%E8%82%A1%E7%A5%A8-2.png)
-![基金预览图-1](https://pu_shu.gitee.io/func/propaganda/%E5%9F%BA%E9%87%91-1.png)
-![基金预览图-1](https://pu_shu.gitee.io/func/propaganda/%E5%9F%BA%E9%87%91-1.png)
-![角标览图-1](https://pu_shu.gitee.io/func/propaganda/all-1.png)
-![详细预览-1](https://pu_shu.gitee.io/func/propaganda/%E8%AF%A6%E7%BB%86.png)
-![整体预览-1](https://pu_shu.gitee.io/func/propaganda/%E6%95%B4%E4%BD%93.jpg)
+![股票预览图-1](./images/%E8%82%A1%E7%A5%A8-1.png)
+![股票预览图-2](./images/%E8%82%A1%E7%A5%A8-2.png)
+![基金预览图-1](./images/%E5%9F%BA%E9%87%91-1.png)
+![基金预览图-1](./images/%E5%9F%BA%E9%87%91-1.png)
+![角标览图-1](./images/all-1.png)
+![详细预览-1](./images/%E8%AF%A6%E7%BB%86.png)
+![整体预览-1](./images/%E6%95%B4%E4%BD%93.jpg)
 
 
 下载地址  
